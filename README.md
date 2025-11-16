@@ -46,3 +46,4 @@ When Vo= - Vsat, the voltage across R1 is referred to as lower threshold voltage
 5.	Plot the graph & show the relationship between Input sine wave & Output
 
 ## RESULT:
+thus a schmitt trigger is designed and tested successfully
